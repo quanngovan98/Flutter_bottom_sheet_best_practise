@@ -1,6 +1,9 @@
 # bottomsheet_autoscrollkeyboard
 
-A new Flutter application.
+![](demogif.gif)
+
+
+A bottomSheet approach that can autoscroll to textField when keyboard show, adjust the bototmSheet height
 
 ## Getting Started
 
